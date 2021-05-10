@@ -1,0 +1,2 @@
+https://www.tightvnc.com/ -> at least the server
+https://nodejs.org/es/ -> to run reverse proxy with node-websockify
